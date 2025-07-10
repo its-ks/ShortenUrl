@@ -1,43 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title></title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: auto;
-      padding: 30px;
-      line-height: 1.6;
-      background: #f8f8f8;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #1a1a1a;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #eee;
-      padding: 10px;
-      overflow-x: auto;
-      border-left: 4px solid #2196f3;
-    }
-    .badge {
-      display: inline-block;
-      background: #007bff;
-      color: white;
-      padding: 3px 8px;
-      border-radius: 4px;
-      font-size: 12px;
-      margin-right: 5px;
-    }
-  </style>
-</head>
 <body>
 
   <h1>🔗 URL Shortener</h1>
