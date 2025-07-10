@@ -94,14 +94,6 @@ GET http://localhost:5000/abc123
 }
   </pre>
 
-  <h2>📷 Screenshots (optional)</h2>
-  <ul>
-    <li><strong>Postman POST request:</strong> shorten URL</li>
-    <li><strong>GET request:</strong> redirection and count increase</li>
-  </ul>
-
-  <h2>📄 License</h2>
-  <p>This project is licensed under the MIT License.</p>
 
 </body>
 </html>
